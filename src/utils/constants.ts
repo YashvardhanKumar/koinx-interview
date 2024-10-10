@@ -1,0 +1,1 @@
+export const coins = ["bitcoin", "ethereum", "matic"];
