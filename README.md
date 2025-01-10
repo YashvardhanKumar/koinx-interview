@@ -1,7 +1,9 @@
 # KoinX Backend Assignment
 
 This project is a Node.js backend application that fetches and processes cryptocurrency data using the CoinGecko API. It includes background jobs for data collection and APIs for statistical analysis.
+
 [Deployed Link](https://koinx-interview.onrender.com/)
+
 Since it is deployed on Render, it takes around 50 seconds to restart the server from inactivity as it is running on free instance.
 
 ## Features
